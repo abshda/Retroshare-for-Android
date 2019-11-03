@@ -1,4 +1,4 @@
-# Retroshare for Android
+# Retroshare for Android(Unofficial)
 
 All Credit for this goes to @kdebiec.
 
